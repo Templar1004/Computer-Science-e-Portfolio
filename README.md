@@ -7,11 +7,11 @@ Professional Self-Assessment
 
 Introduction
 
-As I prepare to graduate with my Bachelor of Science degree in Computer Science at Southern New Hampshire University, I am able to reflect on a journey where problem-solving, architecture design, and software engineering have been the core focus all along. The area of expertise in which I wish to pursue a successful long-term career is artificial intelligence and operations management. For me, software is much more than just code – it’s a system that’s scalable and designed to streamline and improve business processes, automate decision-making and solve business problems. With the creation of this ePortfolio, I was able to develop my academic work into a professional one.
+  As I prepare to graduate with my Bachelor of Science degree in Computer Science at Southern New Hampshire University, I am able to reflect on a journey where problem-solving, architecture design, and software engineering have been the core focus all along. The area of expertise in which I wish to pursue a successful long-term career is artificial intelligence and operations management. For me, software is much more than just code – it’s a system that’s scalable and designed to streamline and improve business processes, automate decision-making and solve business problems. With the creation of this ePortfolio, I was able to develop my academic work into a professional one.
 
 A. Professional Strengths, Values, and Technical Competencies
 
-As a result of my studies, the values that have been instilled within me include proper architecture design, defensive programming, and analytical thinking. Instead of limiting myself to learning the basics of writing code, I have gained experience in many fundamental areas of computer science:
+  As a result of my studies, the values that have been instilled within me include proper architecture design, defensive programming, and analytical thinking. Instead of limiting myself to learning the basics of writing code, I have gained experience in many fundamental areas of computer science:
 
 * Teamwork within Computer Science: Working on challenging academic projects and collaborative scenarios made me realize the importance of such aspects as proper communication, versioning protocol knowledge, and modularity of code. It is vital for me to ensure seamless cooperation in creating either a database schema for the frontend interface or designing a repository structure in such a way that will allow my teammates to expand the existing code.
 
@@ -24,7 +24,8 @@ As a result of my studies, the values that have been instilled within me include
 * Security Mindset: Contemporary software development requires thinking about software from the adversarial perspective to prevent potential security breaches. I'm a big fan of secure coding practice – from removing hard coded plain-text authentication details to preferring environment variables to it, to implementing regular expression sanitization and strict input validation to mitigate injection flaws and buffer overflows.
 
 B. Summary and ePortfolio Description
-In order to showcase the complete range of my technical skills, this ePortfolio includes three unique artifacts that encompass the three basic pillars of computer science:
+
+  In order to showcase the complete range of my technical skills, this ePortfolio includes three unique artifacts that encompass the three basic pillars of computer science:
 
 1. Software Design & Engineering: Includes an Android mobile inventory application that was initially developed using Java. The artifact highlights my technical skills for decoupling the user interface from the back end, creating asynchronous threading using ExecutorService, and protecting user input through defensive programming techniques.
 
@@ -32,7 +33,7 @@ In order to showcase the complete range of my technical skills, this ePortfolio 
 
 3. Databases: Features a complete client-server application implemented in Python and MongoDB. It serves as an evidence of my strong skills in backend security, creating a full CRUD API, validating payloads, and auto-indexing of databases.
 
-Combined, these artifacts provide an example of a flexible and security-aware methodology for building software, which connects high-level systems engineering with real-world applications.
+  Combined, these artifacts provide an example of a flexible and security-aware methodology for building software, which connects high-level systems engineering with real-world applications.
 
 ## Code Review
 In this code review, I analyze three of my previous academic projects, discover areas for improvements based on security and design checklists, and describe how I plan to improve my projects.
